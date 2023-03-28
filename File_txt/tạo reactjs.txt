@@ -1,0 +1,6 @@
+cd ../     : thoát khỏi thư mục hiện hành
+cd exercise_1 : vào thư mục muốn tạo (ví dụ ở đây là exercise_1)
+npx create-react-app 1.1   : tạo create react (ở file 1.1)
+
+
+https://www.youtube.com/watch?v=bdBY0CxF9wE

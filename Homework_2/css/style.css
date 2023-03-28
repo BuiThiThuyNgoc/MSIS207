@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    background: var();
+}
+.right_section{
+    width: 750px;
+    height: 100px;
+    float: right;
+    display: flex;
+}
+nav{
+    display:flex;
+}
+nav ul{
+   list-style: none;
+   display: flex;
+   justify-content: center;
+}
+nav ul li{
+    margin: 0 35px;
+    display: flex;
+    text-decoration: none;
+}
+nav ul li a{
+    margin-top: 30px;
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(218, 165, 32);
+    display: inline-block;
+    font-size: 25px;
+}
+.left_section{
+    width: 250px;
+    height: 100px;
+    text-align: center;
+}
+.content{
+    margin-top: 26px;
+}
+.menu{
+    text-align: center;
+    font-size: 45px;
+}
+h1{
+    text-align:center;
+    color: goldenrod;
+}
+.viet{
+    width: 1000px;
+    height: 350px;
+}
+.mon_viet{
+    margin-top: 26px;
+    float: left;
+}
+.description{
+    font-size: 14px;
+    margin: 16px 0;
+    margin-top: 40px;
+}
+.read_more{
+    padding: 2px 5px;
+    background-color: rgb(200, 155, 43);
+    color: lavenderblush;
+    border: none;
+    cursor: pointer;
+}
+.viet_img{
+    float: right;
+    margin-top: 26px;
+}
+.thai{
+    width: 1000px;
+    height: 350px;
+}
+.mon_thai{
+    margin-top: 26px;
+    float: right;
+}
+.thai_img{
+    float: left;
+    margin-top: 26px;
+}
+.han{
+    width: 1000px;
+    height: 350px;
+}
+.mon_han{
+    margin-top: 26px;
+    float: left;
+}
+.han_img{
+    float: right;
+    margin-top: 26px;
+}
+.au{
+    width: 1000px;
+    height: 350px;
+}
+.mon_au{
+    margin-top: 26px;
+    float: right;
+}
+.au_img{
+    float: left;
+    margin-top: 26px;
+}
+.box{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(20, 20, 19);
+    margin-top: 60px;
+}
+
